@@ -1,10 +1,91 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<link rel="stylesheet" type="text/css" href="style.css">
 	<title>Zo DiSanto</title>
+	<meta charset="utf-8"> 
+      <script src="https://cdn.jsdelivr.net/npm/p5@0.10.2/lib/p5.js"></script>
 </head>
 <body>
 	<h1>Zo DiSanto</h1>
 	<p>This is my personal website.</p>
+	<header>
+		<div class="row"> 
+                <nav>
+                    <ul class="nav1">
+                        <li><a href="About/index.html">About</a></li>
+                        <li><a href="Contact/index.html">Contact</a></li>
+                        <li><a href="Education/index.html">Education</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <footer>&copy; 2021 &bull; Zo DiSanto</footer>
+        <div id="sketch">
+            <!--p5.js goes below here!-->
+            <script>
+                function setup() {
+                    var canvas = createCanvas(800, 800);
+                    canvas.parent('sketch');
+                }
+                function draw() {
+                  background(255);
+                  var step = 10;
+                  var offset = 5;
+                  for (let i = 1; i < 20; i++){
+                    let p = (i * step) + offset;
+                    //Top Left
+                    line (p, 0, p, p);//horizon (tl)
+                    line (0, p, p, p);//vert
+                    
+                    line (400-p, 0, 400-p, p);//tr
+                    line (400, p, 400-p, p);
+                    
+                    line (400-p, 400, 400-p, 400-p);//br
+                    line (400, 400-p, 400-p, 400-p);
+                    
+                    line (0, 400-p, p, 400-p);//bl
+                    line (p, 400, p, 400-p);
+                    //Top Right
+                    line (p+400, 0, p+400, p);//horizon (tl)
+                    line (400, p, p+400, p);//vert
+                    
+                    line (800-p, 0, 800-p, p);//tr
+                    line (800, p, 800-p, p);
+                    
+                    line (800-p, 400, 800-p, 400-p);//br
+                    line (800, 400-p, 800-p, 400-p);
+                    
+                    line (400, 400-p, p+400, 400-p);//bl
+                    line (400+p, 400, p+400, 400-p);
+                    //Bottom Right
+                    line (p+400, 400, p+400, p+400);//horizon (tl)
+                    line (400, p+400, p+400, p+400);//vert
+                    
+                    line (800-p, 400, 800-p, p+400);//tr
+                    line (800, p+400, 800-p, p+400);
+                    
+                    line (800-p, 800, 800-p, 800-p);//br
+                    line (800, 800-p, 800-p, 800-p);
+                    
+                    line (400, 800-p, p+400, 800-p);//bl
+                    line (400+p, 800, p+400, 800-p);
+                    //Bottom Left
+                    line (p, 400, p, p+400);//horizon (tl)
+                    line (0, p+400, p, p+400);//vert
+                    
+                    line (400-p, 400, 400-p, p+400);//tr
+                    line (400, p+400, 400-p, p+400);
+                    
+                    line (400-p, 800, 400-p, 800-p);//br
+                    line (400, 800-p, 400-p, 800-p);
+                    
+                    line (0, 800-p, p, 800-p);//bl
+                    line (p, 800, p, 800-p);
+                  }
+                }
+            </script>
+        </div>
+	</header>
 </body>
 </html>
