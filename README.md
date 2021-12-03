@@ -1,5 +1,8 @@
-<h1 align="center">Hello There! 👋</h1>
-![Hello There Obi Wan GIF](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+<h1 align="center">
+
+  ![giphy](https://user-images.githubusercontent.com/70993217/144535943-807860f6-2364-4cfc-9d7f-5067d1071ae9.gif)
+
+</h1>
 
 <p align="center"><strong>I am Zo. A human who is studying for his master's degree in Computer Science.</strong><p>
 
