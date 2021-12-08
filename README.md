@@ -6,8 +6,8 @@
 
 <p align="center"><strong>I am Zo. A human who is studying for his master's degree in Computer Science.</strong><p>
 
-<p align="center">I'm an aspiring Full Stack Web Developer and professor.</p>
-<p align="center">I have excellent communication skills with focus on user experience and a strong and active desire to continue learning more</p>
+<p align="center">I'm an aspiring Front-End Engineer.</p>
+<p align="center">I have excellent communication skills with focus on user experience and a strong and active desire to continue learning more.</p>
 
 <h2 align="center">Familiarities and Proficiencies</h2>
 
