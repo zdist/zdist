@@ -16,8 +16,8 @@
 
 <h2 align="center">The more I learn, the more this changes...</h2>
   
-<div align="center"> 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdisanto)](https://github.com/zdisanto/github-readme-stats)
-</div>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zdisanto&repo=zdisanto.github.io&theme=buefy" />
+</a>
 
 <h1 align="center">Enjoy Your Day! 👋</h1>
