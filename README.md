@@ -17,9 +17,7 @@
 <h2 align="center">The more I learn, the more this changes...</h2>
   
 <div align="center"> 
-  <a href="https://github.com/zdisanto/github-readme-stats">
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdisanto)](https://github.com/zdisanto/github-readme-stats)
-  </a>
 </div>
 
 <h1 align="center">Enjoy Your Day! 👋</h1>
