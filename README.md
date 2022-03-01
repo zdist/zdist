@@ -17,21 +17,9 @@
 <h2 align="center">The more I learn, the more this changes...</h2>
   
 <div align="center"> 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?zdisanto=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-Show more languages
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?zdisanto=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-Compact Language Card Layout
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?zdisanto=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdisanto&theme=tokyonight&layout=compact" />
-</a>
- </div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdisanto&theme=tokyonight&layout=compact" />
+  </a>
+</div>
 
 <h1 align="center">Enjoy Your Day! 👋</h1>
