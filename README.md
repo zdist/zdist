@@ -16,8 +16,8 @@
 
 <h2 align="center">The more I learn, the more this changes...</h2>
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdisanto&layout=compact&theme=dark&hide_border=true" />
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdisanto&layout=compact&theme=radical&hide_border=true" />
 </a>
 
 <h1 align="center">Enjoy Your Day! 👋</h1>
