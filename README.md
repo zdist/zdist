@@ -19,8 +19,9 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdisanto&layout=compact&theme=merko&hide_border=true" />
-    
-    [![](https://raw.githubusercontent.com/zdisanto/zdisanto/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> 
+    <img align="center" src="https://raw.githubusercontent.com/zdisanto/zdisanto/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
   </a>
 </p>
 
