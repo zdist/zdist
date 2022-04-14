@@ -1,5 +1,5 @@
 <h1 align="center">
-  <!-- Obi-Wan Kenobi gif: -->
+
   ![giphy](https://user-images.githubusercontent.com/70993217/144535943-807860f6-2364-4cfc-9d7f-5067d1071ae9.gif)
 
 </h1>
