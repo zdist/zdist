@@ -12,7 +12,7 @@
 <h2 align="center">Familiarities and Proficiencies</h2>
 
 <p align="center"><strong>HTML5, CSS3</strong>, JavaScript, <strong>Java</strong>, Python, C, SQL</p> 
-<p align="center">Microsoft Office, macOS, Windows, Linux, Adobe Creative Cloud, Program Planning and Implementation</p> 
+<p align="center">Microsoft Office, macOS, Windows, Ubuntu, Adobe Creative Cloud, Program Planning and Implementation</p> 
 
 <h2 align="center">The more I learn, the more this changes...</h2>
 
