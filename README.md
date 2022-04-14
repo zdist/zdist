@@ -20,6 +20,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zdisanto&hide=stars,issues&count_private=true&show_icons=true&theme=merko&hide_border=true">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdisanto&layout=compact&theme=merko&hide_border=true">
+    <img src="https://profile-counter.glitch.me/zdisanto/count.svg" /> 
   </a>
 </p>
 
