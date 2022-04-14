@@ -4,7 +4,7 @@
 
 </h1>
 
-<p align="center"><strong>I am Zo. A human who is studying for his master's degree in Computer Science.</strong><p>
+<p align="center"><strong>Hello, I am Zo, an aspiring software developer and future professor, currently pursuing my Master’s degree in Computer Science at in New York City.</strong><p>
 
 <p align="center">I'm an aspiring Front-End Engineer.</p>
 <p align="center">I have excellent communication skills with focus on user experience and a strong and active desire to continue learning.</p>
