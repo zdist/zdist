@@ -1,7 +1,6 @@
 <h1 align="center">
-
+  <!-- Obi-Wan Kenobi gif: -->
   ![giphy](https://user-images.githubusercontent.com/70993217/144535943-807860f6-2364-4cfc-9d7f-5067d1071ae9.gif)
-
 </h1>
 
 <p align="center"><strong>I am Zo, a student pursuing my Master’s degree in Computer Science in New York City.</strong><p>
@@ -18,8 +17,13 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- Overall Stats: -->
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zdisanto&hide=stars,issues&count_private=true&show_icons=true&theme=merko&hide_border=true">
+    
+    <!-- Language Stats: -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdisanto&layout=compact&theme=merko&hide_border=true">
+    
+    <!-- Profile Visitation Stats: -->
     <img src="https://profile-counter.glitch.me/zdisanto/count.svg" /> 
   </a>
 </p>
