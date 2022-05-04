@@ -11,8 +11,11 @@
 
 <h2 align="center">Familiarities and Proficiencies</h2>
 
-<p align="center"><strong>HTML5, CSS3</strong>, JavaScript, <strong>Java</strong>, Python, C, SQL</p> 
-<p align="center">Microsoft Office, macOS, Windows, Ubuntu, Adobe Creative Cloud, Program Planning and Implementation</p> 
+
+<p align="center"><u>Programming Languages:</u> <b>Java</b>, Python, C, <i>(C#, C++ in training)</i></p>
+<p align="center"><u>Web Development:</u> <b>HTML, CSS</b>, JavaScript, <b>Bootstrap</b>, <i>(React in training)</i></p>
+<p align="center"><u>Databases:</u> SQL, MySQL</p>
+<p align="center"><u>Technologies:</u> <b>Figma</b>, Unity, GitHub, WordPress, Microsoft Office, Adobe Creative Cloud</p>
 
 <h2 align="center">The more I learn, the more this changes...</h2>
 
