@@ -6,16 +6,24 @@
 
 <p align="center"><strong>I am Zo, a student pursuing my Master’s degree in Computer Science in New York City.</strong><p>
 
-<p align="center">I'm an aspiring software developer and future professor.</p>
+<p align="center">I'm an aspiring software developer.</p>
 <p align="center">I have excellent communication skills with focus on user experience and a strong and active desire to continue learning.</p>
 
 <h2 align="center">Familiarities and Proficiencies</h2>
 
+<!-- NEW -->
+<p align="center"><u>Basics:</u> <b>HTML & CSS</b>, JavaScript</p>
+<p align="center"><u>Frameworks:</u> <b>Botstrap</b>, <i>(React.js, Vue.js in training)</i></p>
+<p align="center"><u>Design:</u> <b>Figma</b>, Adobe.XD, Photoshop</p>
+<p align="center"><u>Backend:</u> <b>Java</b>, SQL, Python, PHP, <i>(C, C#, C++ in training)</i></p>
+<p align="center"><u>Others:</u> Github, Unity, WordPress</p>
 
+<!-- OLD
 <p align="center"><u>Programming Languages:</u> <b>Java</b>, Python, C, <i>(C#, C++ in training)</i></p>
 <p align="center"><u>Web Development:</u> <b>HTML, CSS</b>, JavaScript, <b>Bootstrap</b>, <i>(React in training)</i></p>
 <p align="center"><u>Databases:</u> SQL, MySQL</p>
 <p align="center"><u>Technologies:</u> <b>Figma</b>, Unity, GitHub, WordPress, <b>Microsoft Office</b>, Adobe Creative Cloud</p>
+-->
 
 <h2 align="center">The more I learn, the more this changes...</h2>
 
