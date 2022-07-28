@@ -6,7 +6,7 @@
 
 <p align="center"><strong>I am Zo, a student pursuing my Master’s degree in Computer Science in New York City.</strong><p>
 
-<p align="center">I'm an aspiring software developer.</p>
+<p align="center">I'm an aspiring web developer.</p>
 <p align="center">I have excellent communication skills with focus on user experience and a strong and active desire to continue learning.</p>
 
 <h2 align="center">Familiarities and Proficiencies</h2>
