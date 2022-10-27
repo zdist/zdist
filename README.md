@@ -21,16 +21,16 @@
 ### 👨‍💻 About Me:
 I am student pursuing a Master’s degree in Computer Science.
 #### 💻 Familiarities and Proficiencies
-- <u>Frontend:</u> <b>HTML & CSS</b>, JavaScript
-- <u>Frameworks:</u> <b>Botstrap</b>, <i>(React.js, Vue.js in training)</i>
-- <u>Design:</u> <b>Figma</b>, Adobe.XD, Photoshop
-- <u>Backend:</u> <b>Java</b>, SQL, Python, PHP, <i>(C, C#, C++ in training)</i>
-- <u>Others:</u> Github, Unity, WordPress, Ionic
+- __Frontend:__ **HTML & CSS**, JavaScript
+- __Frameworks:__ **Botstrap**, *(React.js, Vue.js in training)*
+- __Design:__ **Figma**, Adobe.XD, Photoshop
+- __Backend:__ **Java**, SQL, Python, PHP, *(C, C#, C++ in training)*
+- __Others:__ Github, Unity, WordPress, Ionic
 
 #### 🚵‍♂️ Intrests and Hobbies
-- <u>Coding:</u> <b>Web & Mobile Development</b>, Game Design, Writing
-- <u>Gaming:</u> <b>Pokémon Legends: Arceus</b>, The Legend of Zelda: Breath of the Wild, Animal Crossing: New Horizons, Mario Kart 8
-- <u>Past Times:</u> <b>Going on Walks</b>, Tending to my plants, Watching movies/TV shows with my girlfriend
+- __Coding:__ **Web & Mobile Development**, Game Design, Writing
+- __Gaming:__ **Pokémon Legends: Arceus**, The Legend of Zelda: Breath of the Wild, Animal Crossing: New Horizons, Mario Kart 8
+- __Past Times:__ **Going on Walks**, Tending to my plants, Watching movies/TV shows with my girlfriend
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
