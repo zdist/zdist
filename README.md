@@ -4,8 +4,8 @@
 
 </h1>
 
-<p><strong>I am Zo, a student pursuing my Master’s degree in Computer Science in New York City.</strong><p>
   <div id="badges" align="center">
+    <p><strong>I am Zo, a student pursuing a Master’s degree in Computer Science.</strong></p>
     <img src="https://avatars.githubusercontent.com/u/70993217?s=400&amp;u=c252d82e2c57cd011fcbf8a6a89729fcbc9d9026&amp;v=4" width="30%">
     <br>
     <a href="www.linkedin.com/in/zdisanto">
@@ -18,11 +18,7 @@
     <img src="https://komarev.com/ghpvc/?username=zdisanto&style=flat-square&color=blue" alt=""/>
   </div>
 
-<p>I'm an aspiring web developer.</p>
-<p>I have excellent communication skills with focus on user experience and a strong and active desire to continue learning.</p>
-
 <h2>Familiarities and Proficiencies</h2>
-
 <!-- NEW -->
 <p><u>Basics:</u> <b>HTML & CSS</b>, JavaScript</p>
 <p><u>Frameworks:</u> <b>Botstrap</b>, <i>(React.js, Vue.js in training)</i></p>
