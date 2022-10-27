@@ -11,7 +11,7 @@
     <a target="_blank" href="https://www.linkedin.com/in/zdisanto">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a target="_blank" href="https://zdisanto.github.io">
+    <a target="_blank" rel="noopener"href="https://zdisanto.github.io">
       <img src="https://img.shields.io/badge/Website-gray?style=for-the-badge&logo=GitHub&logoColor=white" alt="Personal Website Badge"/>
     </a>
     <br>
