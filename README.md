@@ -5,7 +5,7 @@
 </h1>
 
   <div id="badges" align="center">
-    <p><strong>I am Zo</strong></p>
+    <h2>I am Zo</h2>
     <img src="https://avatars.githubusercontent.com/u/70993217?s=400&amp;u=c252d82e2c57cd011fcbf8a6a89729fcbc9d9026&amp;v=4" width="30%">
     <br>
     <a href="www.linkedin.com/in/zdisanto">
