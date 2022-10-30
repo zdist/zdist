@@ -47,8 +47,9 @@ const zoLikes = {
 ## 📈 Stats:
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=zdisanto&show_icons=true&theme=codeSTACKr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdisanto&layout=compact&theme=codeSTACKr">
+    <img src="https://github-readme-stats.vercel.app/api?username=zdisanto&show_icons=true&theme=github_dark">
+    <img src="https://streak-stats.demolab.com/?user=zdisanto&theme=github-dark-blue">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdisanto&layout=compact&theme=github_dark">
   </a>
 </p>
 
