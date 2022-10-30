@@ -28,7 +28,7 @@ I am student pursuing a Master’s degree in Computer Science.
 - __Others:__ Github, Unity, WordPress, Ionic
 
 #### 🚵‍♂️ Intrests and Hobbies
-- __Coding:__ **Web & Mobile Development**, Game Design, Writing
+- __Coding:__ **Web & Mobile Development**, Game Dev/Design, Writing
 - __Gaming:__ **Pokémon Legends: Arceus**, The Legend of Zelda: Breath of the Wild, Animal Crossing: New Horizons, Mario Kart 8
 - __Past Times:__ **Going on Walks**, Tending to my plants, Watching movies/TV shows with my girlfriend
 
