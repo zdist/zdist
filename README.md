@@ -1,8 +1,6 @@
 <h1 align="center">
-  
   ![giphy](https://user-images.githubusercontent.com/70993217/144535943-807860f6-2364-4cfc-9d7f-5067d1071ae9.gif)
-
-</h1>
+</h1> 
 
   <div id="badges" align="center">
     <h2>I am Zo</h2>
@@ -30,7 +28,10 @@ I am student pursuing a Master’s degree in Computer Science.
 #### 🚵‍♂️ Intrests and Hobbies
 - __Coding:__ **Web & Mobile Development**, Game Dev/Design, Writing
 - __Gaming:__ **Pokémon Legends: Arceus**, The Legend of Zelda: Breath of the Wild, Animal Crossing: New Horizons, Mario Kart 8
-- __Past Times:__ **Going on Walks**, Tending to my plants, Watching movies/TV shows with my girlfriend
+- __Past Times:__ **Going on Walks**, Tending to my plants, Listening to music & watching movies/TV shows with my girlfriend
+
+#### 💻 Some of my favorite things I've worked on:
+ - Repository > <a href="zdisanto.github.io/DeviceMotion/">DeviceMotion</a>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
