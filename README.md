@@ -16,7 +16,7 @@ const human = {
   pronouns: "He" | "Him",
   occupation: ["Student", "Developer"],
   codeExperience: {
-    fronted: ["HTML", "CSS", "JavaScript"],
+    frontend: ["HTML", "CSS", "JavaScript"],
     frameworks: ["Bootstrap", "ReactJS", "NodeJS"],
     design: ["Figma", "AdobeXD", "Photoshop"],
     backend: ["Java", "SQL", "Python", "PHP"],
