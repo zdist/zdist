@@ -43,7 +43,7 @@ const zoLikes = {
 ```
 
 ## 💻 What I am Proud of:
- > Repository > <a href="zdisanto.github.io/DeviceMotion/">DeviceMotion</a>
+ > Repository > <a href="https://zdisanto.github.io/DeviceMotion/">DeviceMotion</a>
 
 ## 📈 Stats:
 <p align="center">
