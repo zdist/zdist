@@ -24,7 +24,7 @@ const human = {
     other: ["GitHub", "Unity", "WordPress", "Ionic"],
     codeEditor: ["VS Code", "Eclipse", "Sublime Text", "Atom"]
   },
-  recentWorkExperience: {
+  currenWorkExperience: {
     company: "Seidenberg Creative Labs",
     type: "Part Time",
     position: ["Admin", "Project Manager", "Developer"],
