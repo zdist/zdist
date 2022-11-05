@@ -38,7 +38,7 @@ const human = {
 const zoLikes = {
   coding: ["Web Development", "Mobile App Dev", "Game Dev", "Design", "Writing"],
   gaming: ["Pokemon: Legends: Arceus", "The Legend of Zelda: Breath of the Wild", "Animal Crossing: New Horizons"],
-  other: ["Walks", "Plants", "Music", "Movies", "Shows"] 
+  others: ["Walks", "Plants", "Music", "Movies", "Shows"] 
 };
 ```
 
