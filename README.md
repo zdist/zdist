@@ -35,7 +35,7 @@ const human = {
 
 ## 🚵‍♂️ Intrests and Hobbies
 ```javascript
-const zoLikes = {
+const intrests = {
   coding: ["Web Development", "Mobile App Dev", "Game Dev", "Design", "Writing"],
   gaming: ["Pokemon: Legends: Arceus", "The Legend of Zelda: Breath of the Wild", "Animal Crossing: New Horizons"],
   others: ["Walks", "Plants", "Music", "Movies", "Shows"] 
