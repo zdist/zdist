@@ -27,7 +27,7 @@ const human = {
   currenWorkExperience: {
     company: "Seidenberg Creative Labs",
     type: "Part Time",
-    position: ["Admin", "Project Manager", "Developer"],
+    position: ["Administrative Project Manager", "Software Developer"],
     startDate: "October 2021"
   }
 };
