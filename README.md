@@ -45,6 +45,7 @@ const intrests = {
 ## 💻 What I am Proud of:
 #### Mobile Web Applications:
  > Repository > <a href="https://zdisanto.github.io/DeviceMotion/">DeviceMotion</a>
+ > 
  > Repository > <a href="https://homework9-zd009.web.app/home">StarWars.info</a>
 
 ## 📈 Stats:
