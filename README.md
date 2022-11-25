@@ -1,8 +1,8 @@
-<p>
+<!-- <p>
   <div align="center">
     <img src="https://media.giphy.com/media/1kbnEFHPKzbqtMRveM/giphy.gif">
   </div>
-</p>
+</p> -->
 <p>
   <div align="center">
     <img src="https://user-images.githubusercontent.com/70993217/144535943-807860f6-2364-4cfc-9d7f-5067d1071ae9.gif" align="left">
