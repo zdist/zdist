@@ -19,7 +19,6 @@
 const human = {
   name: "Zo DiSanto",
   pronunciation: "z-OH dIH-sAHn-tOH",
-  pronouns: "He" | "Him",
   occupation: ["Student", "Developer"],
   codeExperience: {
     frontend: ["HTML", "CSS", "JavaScript"],
