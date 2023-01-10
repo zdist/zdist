@@ -11,7 +11,7 @@
     <img src="https://avatars.githubusercontent.com/u/70993217?s=400&amp;u=c252d82e2c57cd011fcbf8a6a89729fcbc9d9026&amp;v=4" width="20%">
     <p align="center"><a href="https://www.linkedin.com/in/zdisanto"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><a href="https://zdisanto.github.io"><img src="https://img.shields.io/badge/Website-gray?style=for-the-badge&logo=GitHub&logoColor=white" alt="Personal Website Badge"/></a><br><img src="https://komarev.com/ghpvc/?username=zdisanto&style=flat-square&color=blue" alt="Views Ticker"/>
   </div>
-<!--   <hr> -->
+  <hr>
 </p>
 
 <!-- # 👨‍💻 About Me:
