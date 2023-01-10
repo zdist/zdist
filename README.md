@@ -11,10 +11,10 @@
     <img src="https://avatars.githubusercontent.com/u/70993217?s=400&amp;u=c252d82e2c57cd011fcbf8a6a89729fcbc9d9026&amp;v=4" width="20%">
     <p align="center"><a href="https://www.linkedin.com/in/zdisanto"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><a href="https://zdisanto.github.io"><img src="https://img.shields.io/badge/Website-gray?style=for-the-badge&logo=GitHub&logoColor=white" alt="Personal Website Badge"/></a><br><img src="https://komarev.com/ghpvc/?username=zdisanto&style=flat-square&color=blue" alt="Views Ticker"/>
   </div>
-  <hr>
+<!--   <hr> -->
 </p>
 
-# 👨‍💻 About Me:
+<!-- # 👨‍💻 About Me:
 ```javascript
 const human = {
   name: "Zo DiSanto",
@@ -35,30 +35,30 @@ const human = {
     startDate: "October 2021"
   }
 };
-```
+``` -->
 
-## 🚵‍♂️ Intrests and Hobbies
+<!-- ## 🚵‍♂️ Intrests and Hobbies
 ```javascript
 const intrests = {
   coding: ["Web Development", "Mobile App Dev", "Game Dev", "Design", "Writing"],
   gaming: ["Pokemon: Legends: Arceus", "The Legend of Zelda: Breath of the Wild", "Animal Crossing: New Horizons"],
   others: ["Walks", "Plants", "Music", "Movies", "Shows"] 
 };
-```
+``` -->
 
-## 💻 What I am Proud of:
+<!-- ## 💻 What I am Proud of:
 #### Mobile Only Web Applications:
  > Repository > <a href="https://zdisanto.github.io/DeviceMotion/">DeviceMotion</a>
  > 
- > Repository > <a href="https://homework9-zd009.web.app/home">StarWars.info</a>
+ > Repository > <a href="https://homework9-zd009.web.app/home">StarWars.info</a> -->
 
-## 📈 Stats:
+<!-- ## 📈 Stats:
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=zdisanto&show_icons=true&theme=github_dark">
     <img src="https://streak-stats.demolab.com/?user=zdisanto&theme=github-dark-blue">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdisanto&layout=compact&theme=github_dark">
   </a>
-</p>
+</p> -->
 
 <h1 align="center">Thanks for stopping by! 👋</h1>
