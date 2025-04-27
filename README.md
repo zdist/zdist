@@ -5,14 +5,19 @@
 </p> -->
 <p>
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/70993217/144535943-807860f6-2364-4cfc-9d7f-5067d1071ae9.gif" align="left">
+    <img src="https://user-images.githubusercontent.com/70993217/144535943-807860f6-2364-4cfc-9d7f-5067d1071ae9.gif" alt="Obi-wan Kenobi saying 'Hello There'" align="left">
   </div>
   <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/70993217?s=400&amp;u=c252d82e2c57cd011fcbf8a6a89729fcbc9d9026&amp;v=4" width="20%">
-    <p align="center"><a href="https://www.linkedin.com/in/zdisanto"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><a href="https://zdisanto.github.io"><img src="https://img.shields.io/badge/Website-gray?style=for-the-badge&logo=GitHub&logoColor=white" alt="Personal Website Badge"/></a><br><img src="https://komarev.com/ghpvc/?username=zdisanto&style=flat-square&color=blue" alt="Views Ticker"/>
+    <img src="https://avatars.githubusercontent.com/u/70993217?s=400&amp;u=c252d82e2c57cd011fcbf8a6a89729fcbc9d9026&amp;v=4" alt="Memoji of Zo" width="20%">
+    <p align="center"><a href="https://www.linkedin.com/in/zdisanto"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><a href="https://zdist.github.io"><img src="https://img.shields.io/badge/Website-gray?style=for-the-badge&logo=GitHub&logoColor=white" alt="Personal Website Badge"/></a><br><img src="https://komarev.com/ghpvc/?username=zdisanto&style=flat-square&color=blue" alt="Views Ticker"/>
   </div>
   <hr>
 </p>
+
+> [!NOTE]  
+> I've recently changed my username from `zdisanto` to `zdist`.
+> Some older projects, links, and references may still use the previous username. 
+> Both refer to the same account (me).
 
 <!-- # 👨‍💻 About Me:
 ```javascript
@@ -55,9 +60,9 @@ const intrests = {
 <!-- ## 📈 Stats:
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=zdisanto&show_icons=true&theme=github_dark">
-    <img src="https://streak-stats.demolab.com/?user=zdisanto&theme=github-dark-blue">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdisanto&layout=compact&theme=github_dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=zdist&show_icons=true&theme=github_dark">
+    <img src="https://streak-stats.demolab.com/?user=zdist&theme=github-dark-blue">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdist&layout=compact&theme=github_dark">
   </a>
 </p> -->
 
